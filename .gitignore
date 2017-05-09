@@ -7,7 +7,7 @@
 /Assets/AssetStoreTools*
 /Assets/Editor/GitHub.meta
 /Assets/Editor/GitHub/
-/Assets/Editor.meta
+Assets/Editor.meta
 
 # Visual Studio 2015 cache directory
 /.vs/
